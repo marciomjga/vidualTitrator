@@ -1,1 +1,1 @@
-# vidualTitrator
+# VisualTitrator
