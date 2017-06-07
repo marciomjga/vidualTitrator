@@ -1,0 +1,3 @@
+/media/piim/DADOS/GIT/visualTitrator/CMakeFiles/edit_cache.dir
+/media/piim/DADOS/GIT/visualTitrator/CMakeFiles/rebuild_cache.dir
+/media/piim/DADOS/GIT/visualTitrator/CMakeFiles/DisplayImage.dir
